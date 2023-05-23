@@ -1,5 +1,5 @@
 ### CBM ANNOUNCEMENTS  
-[中文報告請點擊這裏](/events/announcement/cn/)
+[中文報告請點擊這裏](https://github.com/ipstone/cbm_temp_announcement/blob/main/cn.md)
 
 ------------------
 
